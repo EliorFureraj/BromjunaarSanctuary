@@ -1,0 +1,10 @@
+#Ignore all in directory
+*
+!*/
+
+#Except
+!.gitignore
+!PriestSanctuary.esp
+!readme.txt
+
+!**/blacksmithworkbenchtabletop.nif
